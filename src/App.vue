@@ -9,10 +9,7 @@
   </div>
 </template>
 
-<script setup lang="ts">
 
-import UserPosts from '@/components/UserPosts.vue'; // Import komponen UserPosts
-</script>
 
 <style>
 /* Styling untuk aplikasi utama */
