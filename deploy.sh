@@ -4,7 +4,7 @@ echo "start deployment..."
 set -e
 
 rm -rf dist
-yarn build
+
 cd dist
 
 git init
